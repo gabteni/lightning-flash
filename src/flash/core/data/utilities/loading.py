@@ -57,6 +57,7 @@ AUDIO_EXTENSIONS = (
     ".wav",
     ".nist",
     ".wavex",
+    ".mp3",
 )
 
 CSV_EXTENSIONS = (".csv", ".txt")
